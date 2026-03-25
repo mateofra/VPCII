@@ -1,0 +1,28 @@
+# Datasets
+practica_1/IMagenet/
+practica_1/IMagenet/tiny-imagenet-200/
+
+# Datos precomputados / features
+practica_1/datos_precomputados/
+practica_1/precomputed_data/
+
+# Archivos grandes comunes en proyectos de vision/ML
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.pkl
+*.joblib
+*.bin
+*.dat
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+*.7z
+*.rar
+.vscode/
