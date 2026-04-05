@@ -1,7 +1,8 @@
 # Ignore extracted COCO dataset folders
 /val2017/
 /annotations/
-/dataset_animals/
+/dataset_animales/
+/dataset_vehicles/
 
 # Ignore downloaded zip files (optional)
 *.zip
