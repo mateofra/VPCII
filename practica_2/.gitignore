@@ -1,0 +1,9 @@
+# Ignore extracted COCO dataset folders
+/val2017/
+/annotations/
+
+# Ignore downloaded zip files (optional)
+*.zip
+
+# Python virtualenv
+/.venv/
