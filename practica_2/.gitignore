@@ -3,6 +3,8 @@
 /annotations/
 /dataset_animales/
 /dataset_vehicles/
+/dataset_indoor/
+/dataset_person/
 
 # Ignore downloaded zip files (optional)
 *.zip
